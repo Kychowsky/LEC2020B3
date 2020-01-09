@@ -3,7 +3,7 @@
 
 
 % Initializing a variable with a numeric value
-age = 17;
+age = 19;
 
 % Re-assigning another value to the same variable
 age = 18;
